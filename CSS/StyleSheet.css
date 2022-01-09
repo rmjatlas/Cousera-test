@@ -19,7 +19,7 @@ h1 {
 .content {
   color: black;
   border: 1px solid black;
-  padding: 0 10px 10px 10px;      /* top right bottom left */
+  padding: 0 10px 10px 10px;
   margin: 10px;
   background-color: beige;
 }
@@ -28,7 +28,7 @@ h1 {
   color: black;
   font-size: 125%;
   float: right;
-  margin: 0 -10px 10px 0;       /* top right bottom left */
+  margin: 0 -10px 10px 0;
   padding: 5px 30px;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
